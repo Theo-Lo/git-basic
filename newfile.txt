@@ -1,4 +1,4 @@
 What is the difference between add, commit and push?
-Gitadd is we put the modified files to the queue that we will commit later on.
-Gitcommit will use the files that have been "added" and creates a new revision with a log.
+Git add is we put the modified files to the queue that we will commit later on.
+Git commit will use the files that have been "added" and creates a new revision with a log.
 Git push is to push the changes that we have committed to the remote repository.
